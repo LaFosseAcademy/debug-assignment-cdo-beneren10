@@ -4,7 +4,7 @@ In this assignment, you'll be editing an existing software project. There are se
 
 ## Duration
 
-- You'll have three hours to complete this debug assignment
+- You'll have three hours to complete this debug assignment d
 
 ## Rules
 
